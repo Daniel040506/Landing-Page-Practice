@@ -11,7 +11,15 @@ body {
     color: white;
     padding:8px;
 
+    
+}
+
+.SECTION1 {
     Height: 500px;
+}
+
+.SECTION5 {
+    Height:50px;
 }
 
 .HEADER {
